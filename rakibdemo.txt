@@ -1,2 +1,2 @@
-int a; cin >> a;
-cout << a << endl;
+int b; cin >> b;
+cout << "This is the branch line" << endl;
